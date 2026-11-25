@@ -6,7 +6,7 @@ Helping businesses grow with AI automation, data analysis, and machine learning 
 `Python` · `Machine Learning` · `Deep Learning` · `Computer Vision (YOLOv11)` · `NLP` · `Generative AI`
 
 [![Portfolio](https://shields.io)](https://hunain-portfolio-liard.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hunain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhunain-ds/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/muhammadhunain-ds/)
 [![Facebook](https://shields.io)](https://www.facebook.com/hunain.hanif.353)
 
 ---
